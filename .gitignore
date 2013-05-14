@@ -1,0 +1,6 @@
+*.o
+*.pyc
+*.so
+data/
+kandb.py
+kanjidata.c
